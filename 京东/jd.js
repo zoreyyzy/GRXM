@@ -195,7 +195,7 @@ window.onload = function () {
 	//地区
 	 area.onmouseenter = function () {
 	 	jdar.style.backgroundColor = "#fff";
-	 	jdar.style.borderColor = "#000";
+	 	jdar.style.borderColor = "#ccc";
 	 	jdar.style.borderBottomColor = "#fff"
 		jddz.style.display = "block";
 	}
@@ -207,7 +207,7 @@ window.onload = function () {
 	 //我的京东
 	 fore3.onmouseenter = function () {
 	 	myjd.style.backgroundColor = "#fff";
-	 	myjd.style.borderColor = "#000";
+	 	myjd.style.borderColor = "#ccc";
 	 	myjd.style.borderBottomColor = "#fff"
 		wjd.style.display = "block";
 	}
@@ -219,7 +219,7 @@ window.onload = function () {
 	 //客户服务
 	  fore6.onmouseenter = function () {
 	 	service.style.backgroundColor = "#fff";
-	 	service.style.borderColor = "#000";
+	 	service.style.borderColor = "#ccc";
 	 	service.style.borderBottomColor = "#fff"
 		servicecont.style.display = "block";
 	}
@@ -231,7 +231,7 @@ window.onload = function () {
 	  //网站
 	 fore7.onmouseenter = function () {
 	 	www.style.backgroundColor = "#fff";
-	 	www.style.borderColor = "#000";
+	 	www.style.borderColor = "#ccc";
 	 	www.style.borderBottomColor = "#fff"
 		www1.style.display = "block";
 	}
